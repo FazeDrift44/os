@@ -1,0 +1,1 @@
+[ ] simple vite boot app /apps/boot-vite, with hello world

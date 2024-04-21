@@ -1,0 +1,1 @@
+Welcome to Magic OS the open web based OS of the future. 

@@ -1,0 +1,6 @@
+[x] turbo repo setup, add README
+[x] able to switch between pnpm and bun
+[x] empty os-core repo 
+
+
+

@@ -1,0 +1,25 @@
+{
+  "name": "@magic-one/os",
+  "private": true,
+  "license": "MIT",
+  "author": "Magic One <hello@magic.one>",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "clean": "turbo run clean && rm -rf node_modules",
+    "use-bun": "cp package-bun.json package.json && bun run clean && bun install",
+    "use-pnpm": "cp package-pnpm.json package.json && pnpm run clean && pnpm install"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
+    "prettier": "^3.2.5",
+    "turbo": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@8.9.0"
+}
