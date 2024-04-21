@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
 import './index.css'
 
-import { boot } from 'os-core'
+import { boot } from '@magic-one/os-core'
 
 const bootMessage: string = boot()
 

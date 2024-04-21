@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import { boot } from "os-core";
+import { boot } from "@magic-one/os-core";
 const bootMessage = boot();
 
 export default function Home() {

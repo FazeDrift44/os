@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
 
-import { boot } from 'os-core'
+import { boot } from '@magic-one/os-core'
 import { ref } from 'vue'
 const bootMessage = ref(boot())
 

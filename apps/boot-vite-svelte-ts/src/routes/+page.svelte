@@ -1,6 +1,6 @@
 <script>
 	let name = 'world';
-    import { boot} from 'os-core';
+    import { boot} from '@magic-one/os-core';
     const bootMessage = boot();
 </script>
 <div>{bootMessage}</div>

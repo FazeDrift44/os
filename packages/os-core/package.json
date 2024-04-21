@@ -1,5 +1,5 @@
 {
-  "name": "os-core",
+  "name": "@magic-one/os-core",
   "module": "index.ts",
   "type": "module",
   "public": true,
