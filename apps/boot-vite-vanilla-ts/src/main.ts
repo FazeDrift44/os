@@ -2,7 +2,7 @@ import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
-import { boot } from 'os-core'
+import { boot } from '@magic-one/os-core'
 
 const bootMessage:string = boot()
 

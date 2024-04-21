@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "hono": "^4.2.5",
-    "os-core": "workspace: *"
+    "@magic-one/os-core": "workspace: *"
   },
   "devDependencies": {
     "@types/bun": "latest"

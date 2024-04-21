@@ -1,5 +1,5 @@
 import { Hono } from 'hono'
-import { boot } from 'os-core';
+import { boot } from '@magic-one/os-core';
 
 const app = new Hono()
 

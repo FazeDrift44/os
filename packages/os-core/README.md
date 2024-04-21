@@ -1,4 +1,4 @@
-# os-core
+# @magic-one/os-core
 
 To install dependencies:
 
