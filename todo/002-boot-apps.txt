@@ -1,0 +1,7 @@
+[x] boot-hono-bun-ts /apps/boot-hono-bun-ts
+[x] boot-next-ts /apps/boot-next-ts
+[x] boot-vite-vanilla-ts /apps/boot-vite-vanilla-ts
+[x] boot-vite-vue-ts /apps/boot-vite-vue-ts
+[x] all apps running boot and outputting the boot message 
+[x] also add svelte 
+

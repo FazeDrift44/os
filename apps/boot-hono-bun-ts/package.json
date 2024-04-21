@@ -1,0 +1,13 @@
+{
+  "name": "boot-hono-bun-ts",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.2.5",
+    "os-core": "workspace: *"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

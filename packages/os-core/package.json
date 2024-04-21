@@ -2,7 +2,11 @@
   "name": "os-core",
   "module": "index.ts",
   "type": "module",
+  "public": true,
   "devDependencies": {},
+  "exports": {
+    ".": "./index.ts"
+  },
   "peerDependencies": {
     "typescript": "^5.0.0"
   }
