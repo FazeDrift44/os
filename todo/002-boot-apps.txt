@@ -4,4 +4,3 @@
 [x] boot-vite-vue-ts /apps/boot-vite-vue-ts
 [x] all apps running boot and outputting the boot message 
 [x] also add svelte 
-
