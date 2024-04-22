@@ -1,4 +1,4 @@
-Welcome to Code OS the open web based OS of the future. 
+Welcome to Code/OS the open web based OS of the future. 
 
 Some important context for AI 
 
